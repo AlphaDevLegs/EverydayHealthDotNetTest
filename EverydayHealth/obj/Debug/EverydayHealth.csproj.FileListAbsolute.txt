@@ -1,0 +1,10 @@
+C:\Projects\EverydayHealthTest\EverydayHealth\bin\Debug\EverydayHealth.exe.config
+C:\Projects\EverydayHealthTest\EverydayHealth\bin\Debug\EverydayHealth.exe
+C:\Projects\EverydayHealthTest\EverydayHealth\bin\Debug\EverydayHealth.pdb
+C:\Projects\EverydayHealthTest\EverydayHealth\obj\Debug\EverydayHealth.csprojAssemblyReference.cache
+C:\Projects\EverydayHealthTest\EverydayHealth\obj\Debug\EverydayHealth.csproj.CoreCompileInputs.cache
+C:\Projects\EverydayHealthTest\EverydayHealth\obj\Debug\EverydayHealth.exe
+C:\Projects\EverydayHealthTest\EverydayHealth\obj\Debug\EverydayHealth.pdb
+C:\Projects\EverydayHealthTest\EverydayHealth\bin\Debug\EverydayHealthData.dll
+C:\Projects\EverydayHealthTest\EverydayHealth\bin\Debug\EverydayHealthData.pdb
+C:\Projects\EverydayHealthTest\EverydayHealth\obj\Debug\EverydayHealth.csproj.CopyComplete

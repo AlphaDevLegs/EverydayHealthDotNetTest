@@ -1,0 +1,6 @@
+C:\Projects\EverydayHealthTest\EverydayHealthData\obj\Debug\EverydayHealthData.csprojAssemblyReference.cache
+C:\Projects\EverydayHealthTest\EverydayHealthData\obj\Debug\EverydayHealthData.csproj.CoreCompileInputs.cache
+C:\Projects\EverydayHealthTest\EverydayHealthData\bin\Debug\EverydayHealthData.dll
+C:\Projects\EverydayHealthTest\EverydayHealthData\bin\Debug\EverydayHealthData.pdb
+C:\Projects\EverydayHealthTest\EverydayHealthData\obj\Debug\EverydayHealthData.dll
+C:\Projects\EverydayHealthTest\EverydayHealthData\obj\Debug\EverydayHealthData.pdb

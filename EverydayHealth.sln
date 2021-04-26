@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverydayHealth", "EverydayHealth\EverydayHealth.csproj", "{23C39BF0-BD50-450D-A6A3-AC770DA8999A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverydayHealthData", "EverydayHealthData\EverydayHealthData.csproj", "{24CDB27B-4790-46B1-9E88-4E97C75166EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C39BF0-BD50-450D-A6A3-AC770DA8999A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C39BF0-BD50-450D-A6A3-AC770DA8999A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C39BF0-BD50-450D-A6A3-AC770DA8999A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C39BF0-BD50-450D-A6A3-AC770DA8999A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CDB27B-4790-46B1-9E88-4E97C75166EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CDB27B-4790-46B1-9E88-4E97C75166EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CDB27B-4790-46B1-9E88-4E97C75166EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CDB27B-4790-46B1-9E88-4E97C75166EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {463B343C-C793-488E-B12C-B729ECEF6F62}
+	EndGlobalSection
+EndGlobal
