@@ -1,5 +1,8 @@
 ﻿using EverydayHealthData;
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace EverydayHealth
 {
@@ -21,7 +24,21 @@ namespace EverydayHealth
 
         static void Main(string[] args)
         {
+            bool exit;
+            var pageFacade = new PageFacade(new PageData(), new LineTreater(new ImageData(), new PageLineExtractor(), new Dictionary<int, ImageData>()));
             
+            do
+            {
+                foreach (var line in pageFacade.GetPageLines())
+                {
+                    Console.WriteLine(line);
+                    Console.WriteLine();
+                }
+
+                Console.WriteLine("Continue? (Y/Any Key): ");
+                var input = Console.ReadLine();
+                exit = !string.Equals("y", input, StringComparison.OrdinalIgnoreCase);
+            } while (!exit);
         }
     }
 }

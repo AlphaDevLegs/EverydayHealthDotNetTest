@@ -8,3 +8,13 @@ C:\Projects\EverydayHealthTest\EverydayHealth\obj\Debug\EverydayHealth.pdb
 C:\Projects\EverydayHealthTest\EverydayHealth\bin\Debug\EverydayHealthData.dll
 C:\Projects\EverydayHealthTest\EverydayHealth\bin\Debug\EverydayHealthData.pdb
 C:\Projects\EverydayHealthTest\EverydayHealth\obj\Debug\EverydayHealth.csproj.CopyComplete
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealth\bin\Debug\EverydayHealth.exe.config
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealth\bin\Debug\EverydayHealth.exe
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealth\bin\Debug\EverydayHealth.pdb
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealth\bin\Debug\EverydayHealthData.dll
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealth\bin\Debug\EverydayHealthData.pdb
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealth\obj\Debug\EverydayHealth.csprojAssemblyReference.cache
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealth\obj\Debug\EverydayHealth.csproj.CoreCompileInputs.cache
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealth\obj\Debug\EverydayHealth.csproj.CopyComplete
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealth\obj\Debug\EverydayHealth.exe
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealth\obj\Debug\EverydayHealth.pdb

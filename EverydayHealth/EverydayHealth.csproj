@@ -44,6 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EH.cs" />
+    <Compile Include="ImageDataExtensions.cs" />
+    <Compile Include="LineTreater.cs" />
+    <Compile Include="PageFacade.cs" />
+    <Compile Include="PageLineExtractor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -4,3 +4,9 @@ C:\Projects\EverydayHealthTest\EverydayHealthData\bin\Debug\EverydayHealthData.d
 C:\Projects\EverydayHealthTest\EverydayHealthData\bin\Debug\EverydayHealthData.pdb
 C:\Projects\EverydayHealthTest\EverydayHealthData\obj\Debug\EverydayHealthData.dll
 C:\Projects\EverydayHealthTest\EverydayHealthData\obj\Debug\EverydayHealthData.pdb
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealthData\bin\Debug\EverydayHealthData.dll
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealthData\bin\Debug\EverydayHealthData.pdb
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealthData\obj\Debug\EverydayHealthData.csprojAssemblyReference.cache
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealthData\obj\Debug\EverydayHealthData.csproj.CoreCompileInputs.cache
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealthData\obj\Debug\EverydayHealthData.dll
+C:\Users\omego\GitRepos\EverydayHealthDotNetTest\EverydayHealthData\obj\Debug\EverydayHealthData.pdb
